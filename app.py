@@ -26,6 +26,10 @@ Estimado, [nombre de la persona interesada en comprar el proyecto]
 Me complace presentarle una oportunidad única: los Premios de Pensiones de México. Este evento podría dedicarse a reconocer la excelencia, innovación y mejores prácticas en la industria de pensiones del país.
 """)
 
+# Imagen
+st.image("sergio.jpg", caption="Premios de Pensiones de México")
+
+
 # Beneficios
 st.markdown("""
 ### Beneficios
