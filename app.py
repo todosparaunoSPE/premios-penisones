@@ -15,19 +15,21 @@ st.subheader("Reconociendo la excelencia en la industria de pensiones")
 
 st.subheader("Propuesta compartida para: Segio Athie de Profuturo")
 
+# Imagen
+st.image("sergio.jpg", caption="Premios de Pensiones de México")
+
 # Introducción
 st.markdown("""
 **CDMX a 17 de junio de 2024**
 
 **Asunto: Oportunidad Única para Reconocer la Excelencia en la Industria de Pensiones**
 
-Estimado, [nombre de la persona interesada en comprar el proyecto]
+Estimado, [Sergio Athie]
 
 Me complace presentarle una oportunidad única: los Premios de Pensiones de México. Este evento podría dedicarse a reconocer la excelencia, innovación y mejores prácticas en la industria de pensiones del país.
 """)
 
-# Imagen
-st.image("sergio.jpg", caption="Premios de Pensiones de México")
+
 
 
 # Beneficios
