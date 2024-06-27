@@ -10,8 +10,10 @@ import streamlit as st
 st.set_page_config(page_title="Premios de Pensiones de México", page_icon="🏆")
 
 # Encabezado y subtítulo
-st.title("Premios de Pensiones de México-restaurado")
+st.title("Premios de Pensiones de México")
 st.subheader("Reconociendo la excelencia en la industria de pensiones")
+
+st.subheader("Propuesta compartida para: Segio Athie de Profuturo")
 
 # Introducción
 st.markdown("""
