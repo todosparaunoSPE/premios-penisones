@@ -16,7 +16,7 @@ st.subheader("Reconociendo la excelencia en la industria de pensiones")
 st.subheader("Propuesta compartida para: Segio Athie de Profuturo")
 
 # Imagen
-st.image("sergio.jpg", caption="Premios de Pensiones de México")
+#st.image("sergio.jpg", caption="Premios de Pensiones de México")
 
 # Introducción
 st.markdown("""
