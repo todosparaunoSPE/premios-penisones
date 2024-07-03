@@ -13,14 +13,14 @@ st.set_page_config(page_title="Premios de Pensiones de México", page_icon="🏆
 st.title("Premios de Pensiones de México")
 st.subheader("Reconociendo la excelencia en la industria de pensiones")
 
-st.subheader("Propuesta compartida para: Segio Athie de Profuturo")
+st.subheader("Propuesta compartida para: Elsa Angélica Tejeda Reséndiz")
 
 # Imagen
 #st.image("sergio.jpg", caption="Premios de Pensiones de México")
 
 # Introducción
 st.markdown("""
-**CDMX a 17 de junio de 2024**
+**CDMX a 3 de julio de 2024**
 
 **Asunto: Oportunidad Única para Reconocer la Excelencia en la Industria de Pensiones**
 
