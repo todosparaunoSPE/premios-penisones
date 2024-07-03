@@ -13,7 +13,7 @@ st.set_page_config(page_title="Premios de Pensiones de México", page_icon="🏆
 st.title("Premios de Pensiones de México")
 st.subheader("Reconociendo la excelencia en la industria de pensiones")
 
-st.subheader("Propuesta compartida para: Elsa Angélica Tejeda Reséndiz")
+st.subheader("Propuesta compartida para: Lic. María José Martino Manzo")
 
 # Imagen
 #st.image("sergio.jpg", caption="Premios de Pensiones de México")
@@ -24,7 +24,7 @@ st.markdown("""
 
 **Asunto: Oportunidad Única para Reconocer la Excelencia en la Industria de Pensiones**
 
-Estimado, [Elsa]
+Estimado, [María José]
 
 Me complace presentarle una oportunidad única: los Premios de Pensiones de México. Este evento podría dedicarse a reconocer la excelencia, innovación y mejores prácticas en la industria de pensiones del país.
 """)
